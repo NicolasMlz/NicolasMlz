@@ -16,8 +16,10 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px" src="https://discord.com/channels/820765344913686569/1002206021667790948/1007009910875230300">
+  <img align="right" alt="gif" height="120" width="120"
+src="https://user-images.githubusercontent.com/104225083/184007950-73ed3752-ddd3-4352-86db-306366170383.jpeg">
 </div>
+
 
 ##
 
