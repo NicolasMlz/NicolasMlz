@@ -1,8 +1,8 @@
 ## Olá, eu sou o Nícolas!
 
-- 🔭 Hoje curso o 3° período de Sistemas de Ĩnformação na Universidade Federal de Goiás 
-- Habilidades: JPA, efjwijfewi
-- 🌱 Estudando Java, C.
+- 🔭 Hoje curso o 3° período de Sistemas de Ĩnformação na Universidade Federal de Goiás.
+- Habilidades: noções básicas em JPA, JAVAFX e SPRING BOOT.
+- 🌱 Estudando Java e C.
 - ⚡  Fun fact: Comecei a estudar programação, inicialmente por ser um grande fã de Matrix 🤣
 
 <div align="center">
