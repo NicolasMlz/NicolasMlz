@@ -1,7 +1,7 @@
 ## Olá, eu sou o Nícolas!
 
 - 🔭 Hoje curso o 3° período de Sistemas de Ĩnformação na Universidade Federal de Goiás.
-- 🧠 Frameworks: noções básicas em Mysql, JPA, JAVAFX e SPRING BOOT.
+- 🧠 Frameworks: noções básicas em MYSQL, JPA, JAVAFX e SPRING BOOT.
 - 📘 Estudando: C, Java e SQL.
 - ⚡  Fun fact: Comecei a estudar programação, inicialmente por ser um grande fã de Matrix 🤣
 
