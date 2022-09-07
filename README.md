@@ -1,6 +1,6 @@
 ## Olá, eu sou o Nícolas!
 
-- 🔭 Hoje curso o 3° período de Sistemas de Informação na Universidade Federal de Goiás.
+- 🔭 Hoje curso o 4° período de Sistemas de Informação na Universidade Federal de Goiás.
 - 🧠 Frameworks: noções básicas em JPA, JAVAFX e SPRING BOOT.
 - 📘 Estudando: C, MySQL e JAVA.
 - 🎓 Certificados: https://drive.google.com/drive/folders/1wWsLFIohPdTutCeRgef-470geMLX5Ojk?usp=sharing
