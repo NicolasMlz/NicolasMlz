@@ -1,10 +1,11 @@
 ## Olá, eu sou o Nícolas!
 
 - 🔭 Hoje curso o 4° período de Sistemas de Informação na Universidade Federal de Goiás.
-- 🧠 Frameworks: noções básicas em SPRING BOOT, JPA e JAVAFX.
-- 📘 Estudando: PYTHON E JAVA.
+- 💻 Linguagens: Intermediário em JAVA, essencial em PYTHON, C, HTML e CSS
+- 🧠 Frameworks: Noções em SPRING BOOT, JPA e BOOTSTRAP
+- 📘 Estudando: Atualmente procuro me aprofundar em PYTHON (área de dados) e JAVA (rest APIs).
 - 🎓 Certificados: https://drive.google.com/drive/folders/1wWsLFIohPdTutCeRgef-470geMLX5Ojk?usp=sharing
-- ⚡ Fun fact: Comecei a estudar programação, inicialmente por ser um grande fã de Matrix 🤣
+- ⚡ Fun fact: Comecei a estudar programação por ser um grande fã de Matrix desde a infância 🤣
 
 <div align="center">
   <a href="https://github.com/NicolasMlz">
