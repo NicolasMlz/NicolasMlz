@@ -1,9 +1,9 @@
 ## Olá, eu sou o Nícolas!
 
 - 🔭 Hoje curso o 4° período de Sistemas de Informação na Universidade Federal de Goiás.
-- 💻 Linguagens: Intermediário em JAVA, Básico em HTML, CSS e C
-- 🧠 Frameworks: SPRING BOOT, HIBERNATE e Básico em BOOTSTRAP
-- 📘 Estudando: Atualmente estou me aprofundando em Rest API's e Microservices com Spring Boot
+- 💻 Linguagens: JAVA, HTML, CSS, JAVASCRIPT e C.
+- 🧠 Frameworks: SPRING BOOT, HIBERNATE e BOOTSTRAP.
+- 📘 Estudando: Atualmente estou me aprofundando em Rest API's e Microservices com Spring Boot.
 - 🎓 Certificados: https://drive.google.com/drive/folders/1wWsLFIohPdTutCeRgef-470geMLX5Ojk?usp=sharing
 - ⚡ Fun fact: Comecei a estudar programação por ser um grande fã de Matrix desde a infância 🤣
 
